@@ -87,7 +87,7 @@
     // Order service
     {
       "UpstreamPathTemplate": "/GetOrderAdminDetail?{everything}",
-      "UpstreamHttpMethod": [ "DELETE" ],
+      "UpstreamHttpMethod": [ "GET" ],
       "DownstreamScheme": "https",
       "SwaggerKey": "userorder",
       "DownstreamHostAndPorts": [
@@ -296,7 +296,7 @@
     },
     {
       "UpstreamPathTemplate": "/GetNewsUser",
-      "UpstreamHttpMethod": [ "DELETE" ],
+      "UpstreamHttpMethod": [ "GET" ],
       "DownstreamScheme": "https",
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
