@@ -36,7 +36,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "takefoodauthentication.azurewebsites.net",
-          "Port": 7287
+          "Port": 443
         }
       ],
       "DownstreamPathTemplate": "/GetPagingAdmin?{everything}",
@@ -59,7 +59,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "takefoodauthentication.azurewebsites.net",
-          "Port": 7287
+          "Port": 443
         }
       ],
       "DownstreamPathTemplate": "/MakeAdmin?{everything}",
