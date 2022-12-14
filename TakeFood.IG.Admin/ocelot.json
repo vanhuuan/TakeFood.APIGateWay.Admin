@@ -8,7 +8,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -21,7 +21,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -35,7 +35,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -58,7 +58,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -81,7 +81,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -105,7 +105,7 @@
       "SwaggerKey": "userorder",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefooduserorder.azurewebsites.net",
+          "Host": "takefood-userorderservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -129,7 +129,7 @@
       "SwaggerKey": "store",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodstoreservice.azurewebsites.net",
+          "Host": "takefood-storeservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -152,7 +152,7 @@
       "SwaggerKey": "store",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodstoreservice.azurewebsites.net",
+          "Host": "takefood-storeservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -175,7 +175,7 @@
       "SwaggerKey": "store",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodstoreservice.azurewebsites.net",
+          "Host": "takefood-storeservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -198,7 +198,7 @@
       "SwaggerKey": "store",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodstoreservice.azurewebsites.net",
+          "Host": "takefood-storeservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -222,7 +222,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -245,7 +245,7 @@
       "SwaggerKey": "userorder",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefooduserorder.azurewebsites.net",
+          "Host": "takefood-userorderservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -268,7 +268,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -291,7 +291,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -314,7 +314,7 @@
       "SwaggerKey": "authen",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodauthentication.azurewebsites.net",
+          "Host": "takefood-authentication.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -338,7 +338,7 @@
       "SwaggerKey": "voucher",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodvoucherservice.azurewebsites.net",
+          "Host": "takefood-voucherservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -361,7 +361,7 @@
       "SwaggerKey": "voucher",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodvoucherservice.azurewebsites.net",
+          "Host": "takefood-voucherservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -384,7 +384,7 @@
       "SwaggerKey": "voucher",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodvoucherservice.azurewebsites.net",
+          "Host": "takefood-voucherservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -407,7 +407,7 @@
       "SwaggerKey": "voucher",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodvoucherservice.azurewebsites.net",
+          "Host": "takefood-voucherservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -430,7 +430,7 @@
       "SwaggerKey": "voucher",
       "DownstreamHostAndPorts": [
         {
-          "Host": "takefoodvoucherservice.azurewebsites.net",
+          "Host": "takefood-voucherservice.azurewebsites.net",
           "Port": 443
         }
       ],
@@ -458,7 +458,7 @@
         {
           "Name": "TakeFood.AuthenticationService",
           "Version": "1.0",
-          "Url": "https://takefoodauthentication.azurewebsites.net/swagger/v1/swagger.json"
+          "Url": "https://takefood-authentication.azurewebsites.net/swagger/v1/swagger.json"
         }
       ]
     },
@@ -469,7 +469,7 @@
         {
           "Name": "TakeFood.StoreService",
           "Version": "1.0",
-          "Url": "https://takefoodstoreservice.azurewebsites.net/swagger/v1/swagger.json"
+          "Url": "https://takefood-storeservice.azurewebsites.net/swagger/v1/swagger.json"
         }
       ]
     },
@@ -480,7 +480,7 @@
         {
           "Name": "TakeFood.UserOrderService",
           "Version": "1.0",
-          "Url": "https://takefooduserorder.azurewebsites.net/swagger/v1/swagger.json"
+          "Url": "https://takefood-userorderservice.azurewebsites.net/swagger/v1/swagger.json"
         }
       ]
     },
@@ -491,7 +491,7 @@
         {
           "Name": "TakeFood.VoucherService",
           "Version": "1.0",
-          "Url": "https://takefoodvoucherservice.azurewebsites.net/swagger/v1/swagger.json"
+          "Url": "https://takefood-voucherservice.azurewebsites.net/swagger/v1/swagger.json"
         }
       ]
     }
