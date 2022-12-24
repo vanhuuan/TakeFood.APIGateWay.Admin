@@ -353,6 +353,29 @@
         "Uid": "Claims[UId] > value"
       }
     },
+    {
+      "UpstreamPathTemplate": "/api/Revenue/RevenueOfYear?{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "https",
+      "SwaggerKey": "order",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "takefood-orderservice.azurewebsites.net",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Revenue/RevenueOfYear?{everything}",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Admin": "Admin"
+      },
+      "AddHeadersToRequest": {
+        "Uid": "Claims[UId] > value"
+      }
+    },
     // Voucher service
     {
       "UpstreamPathTemplate": "/GetPagingSystemVoucher?{everything}",
