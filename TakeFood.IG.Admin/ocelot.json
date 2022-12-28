@@ -354,7 +354,7 @@
       }
     },
     {
-      "UpstreamPathTemplate": "api/Revenue/RevenueDayToDay?{everything}",
+      "UpstreamPathTemplate": "/api/Revenue/RevenueDayToDay?{everything}",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamScheme": "https",
       "SwaggerKey": "order",
@@ -364,7 +364,7 @@
           "Port": 443
         }
       ],
-      "DownstreamPathTemplate": "api/Revenue/RevenueDayToDay?{everything}",
+      "DownstreamPathTemplate": "/api/Revenue/RevenueDayToDay?{everything}",
       "AuthenticationOptions": {
         "AuthenticationProviderKey": "Bearer",
         "AllowedScopes": []
